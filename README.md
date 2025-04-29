@@ -22,7 +22,7 @@ If you guess all planets right, you must try to **decrypt the final message** to
 
 2. **Game Flow**:
    - You'll be shown a random description of a planet.
-   - You have **10 seconds** to input your guess.
+   - You have **20 seconds** to input your guess.
    - If you're **correct**, a secret encrypted word is added to the final message.
    - If you're **incorrect**, a different encrypted word is still added, and you lose one life.
    - You get up to **3 incorrect guesses**. After that, the game ends.
